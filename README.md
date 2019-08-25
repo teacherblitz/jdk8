@@ -18,6 +18,9 @@
 ### Stream API
 1. jdk8中的stream与java.io包里的输入输出流是完全不同的概念，jdk8中的stream是对集合以及对象功能的增强
 
+### OPE
+1. jdk8中对null值的处理的示例，Optional类
+
 
 
 - 来自Java技术教程作者朱老师的分享,联系邮箱：teacherblitz@gmail.com

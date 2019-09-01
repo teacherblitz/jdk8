@@ -1,5 +1,7 @@
-package com.javajsjc.jdk8;
+package com.javajsjc.jdk8.function;
 
+import com.javajsjc.jdk8.function.FunctionInterface;
+import com.javajsjc.jdk8.function.FunctionInterfaceImpl;
 import org.junit.Test;
 
 /**

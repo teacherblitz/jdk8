@@ -1,4 +1,6 @@
-package com.javajsjc.jdk8;
+package com.javajsjc.jdk8.function;
+
+import com.javajsjc.jdk8.function.FunctionInterface;
 
 /**
  * @author zhuyuan
@@ -6,7 +8,7 @@ package com.javajsjc.jdk8;
  * @description
  * @date 2019/8/3 13:00
  */
-public class FunctionInterfaceImpl implements FunctionInterface{
+public class FunctionInterfaceImpl implements FunctionInterface {
 
     @Override
     public int fun(int num) {

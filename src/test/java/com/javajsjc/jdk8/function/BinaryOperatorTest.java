@@ -1,4 +1,4 @@
-package com.javajsjc.jdk8;
+package com.javajsjc.jdk8.function;
 
 import java.util.Comparator;
 import java.util.function.BinaryOperator;

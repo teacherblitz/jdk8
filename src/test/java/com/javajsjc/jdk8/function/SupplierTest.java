@@ -1,5 +1,6 @@
-package com.javajsjc.jdk8;
+package com.javajsjc.jdk8.function;
 
+import com.javajsjc.jdk8.User;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 

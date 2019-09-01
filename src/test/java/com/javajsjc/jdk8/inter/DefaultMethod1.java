@@ -3,7 +3,7 @@ package com.javajsjc.jdk8.inter;
 /**
  * @description 
  * @author zhuyuan
- * @date 2019/8/31 16:10
+ * @date 2019/8/31 16:58
  * @version v1.0
  */
 public interface DefaultMethod1 {

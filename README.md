@@ -23,7 +23,14 @@
 
 ### Stream API
 1. jdk8中的stream与java.io包里的输入输出流是完全不同的概念，jdk8中的stream是对集合以及对象功能的增强
-
+#### 流由3部分构成
+1. 源->stream
+2. 零个或多个中间操作->xxx().yyy().zzz()
+3. 终止操作->count()
+- stream.xxx().yyy().zzz().count();
+#### 流操作的分类
+1. 惰性求值
+2. 及早求值
 ### OPE
 1. jdk8中对null值的处理的示例，Optional类
 

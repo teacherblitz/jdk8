@@ -1,4 +1,4 @@
-package com.javajsjc.jdk8;
+package com.javajsjc.jdk8.function;
 
 /**
  * @author zhuyuan

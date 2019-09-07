@@ -37,6 +37,7 @@ public class StreamTest {
     @Test
     public void fun3(){
         Stream<String> stream = Stream.of("hello", "world", "hello world");
+        // 搜集->转换成一个list集合
         List<String> list = stream.collect(Collectors.toList());
         list.forEach(System.out::println);
     }

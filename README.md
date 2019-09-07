@@ -34,6 +34,12 @@
 ### OPE
 1. jdk8中对null值的处理的示例，Optional类
 
+### 时间新特性
+1. LocalDate：本地日期
+2. LocalTime：本地时间
+3. LocalDateTime：本地日期时间
+4. DateTimeFormatter：时间格式化
+
 
 
 - 来自Java技术教程作者朱老师的分享,联系邮箱：teacherblitz@gmail.com
